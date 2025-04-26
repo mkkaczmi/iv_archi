@@ -1,4 +1,4 @@
-# DOS Assembly Programs
+# Computer architecture and low-level programming
 
 This repository contains DOS assembly programs written for educational purposes. Each program demonstrates different aspects of x86 assembly programming.
 
